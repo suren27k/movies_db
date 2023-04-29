@@ -66,6 +66,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>movie-db</finalName>
 	</build>
 
 </project>
